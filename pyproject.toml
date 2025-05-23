@@ -1,7 +1,7 @@
 [project]
 name = "fides"
 version = "0.1.0"
-description = "Add your description here"
+description = "Flow Integrity Deterministic Enforcement System. Mechanisms for securing AI agents with information-flow control."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
