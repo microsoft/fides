@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+type: software
+title: "Securing AI Agents with Information-Flow Control"
+authors:
+  - family-names: Costa
+    given-names: Manuel
+  - family-names: Köpf
+    given-names: Boris
+  - family-names: Kolluri
+    given-names: Aashish
+  - family-names: Paverd
+    given-names: Andrew
+  - family-names: Russinovich
+    given-names: Mark
+  - family-names: Salem
+    given-names: Ahmed
+  - family-names: Tople
+    given-names: Shruti
+  - family-names: Wutschitz
+    given-names: Lukas
+  - family-names: Zanella-Béguelin
+    given-names: Santiago
+preferred-citation:
+  type: article
+  title: "Securing AI Agents with Information-Flow Control"
+  authors:
+    - family-names: Costa
+      given-names: Manuel
+    - family-names: Köpf
+      given-names: Boris
+    - family-names: Kolluri
+      given-names: Aashish
+    - family-names: Paverd
+      given-names: Andrew
+    - family-names: Russinovich
+      given-names: Mark
+    - family-names: Salem
+      given-names: Ahmed
+    - family-names: Tople
+      given-names: Shruti
+    - family-names: Wutschitz
+      given-names: Lukas
+    - family-names: Zanella-Béguelin
+      given-names: Santiago
+  doi: "10.48550/arXiv.XXXX.YYYYY"
+  journal: "arXiv preprint arXiv:XXXX.YYYYY"
+  year: 2025
