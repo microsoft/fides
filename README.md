@@ -30,10 +30,10 @@ If you use wish to cite this work, please cite it as follows
                    Wutschitz, Lukas and 
                    Zanella-B{\'e}guelin, Santiago},
   year          = {2025},
-  eprint        = {XXXX.YYYYY},
+  eprint        = {2505.23643},
   archivePrefix = {arXiv},
-  primaryClass  = {cs.LG},
-  doi           = {10.48550/arXiv.XXXX.YYYYY}
+  primaryClass  = {cs.CR},
+  doi           = {10.48550/arXiv.2505.23643}
 }
 ```
 
