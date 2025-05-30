@@ -4,6 +4,8 @@ This repository contains a Jupyter notebook to accompany the academic paper "Sec
 The notebook is structured as a tutorial to walk readers through the concepts introduced in the paper.
 This illustrates a practical implementation of mechanisms to deterministically enforce security policies in agentic tasks and grounds the concepts into executable code that readers can experiment with.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2505.23643-00ff00.svg)](https://arxiv.org/abs/2505.23643)
+
 ## Setup Instructions
 
 The notebook has been tested against GPT-4o and GPT-4.1 using the Azure OpenAI Chat Completions API, but could be easily adapted to use an OpenAI endpoint instead.
